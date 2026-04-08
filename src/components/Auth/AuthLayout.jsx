@@ -26,11 +26,10 @@ const AuthLayout = ({ children }) => {
 
           <div className="relative z-10 text-right">
             <h3 className="text-[20px] font-semibold leading-snug max-w-[320px] ml-auto mr-0">
-              Efficient Digital Ad Purchasing Platform
+              Schedule your appointments with ease
             </h3>
             <p className="text-[11px] text-white/80 leading-relaxed mt-4 max-w-[320px] ml-auto mr-0">
-              Manage your ad campaigns quickly and in one platform—measure results,
-              reach the right audience, and maximize your marketing outcomes.
+              Schedule your appointments with ease and manage your bookings in one platform.
             </p>
           </div>
         </div>

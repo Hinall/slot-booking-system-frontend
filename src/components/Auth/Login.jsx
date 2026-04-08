@@ -99,6 +99,13 @@ const Login = () => {
           Sign Up
         </Link>
       </p>
+
+      <p className="text-[11px] text-gray-600 text-center mt-4">
+        Looking to book a time?{" "}
+        <Link to="/users" className="text-[#2F3B8A] underline cursor-pointer">
+          Browse hosts
+        </Link>
+      </p>
       </form>
 
       {toast && (
