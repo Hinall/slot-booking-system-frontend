@@ -45,28 +45,28 @@ You’re building a lightweight scheduling system where users can share their av
 
 ### Home (shared landing for user + visitor)
 
-![Home](public/homepage.png)
+Home
 
 ### User side (host)
 
 - **1) Sign in**
 
-![Sign in](public/signinpage.png)
+Sign in
 
 - **2) Add availability**
 - **3) Generate booking link of user**
 
-![User dashboard](public/userpage.png)
+User dashboard
 
 ### Visitor side
 
 - **1) Visitor can access user schedule** by shared link (`/book/:userId`) **or** click **Discover** on Home to see all users
 
-![Discover hosts](public/discoverpage.png)
+Discover hosts
 
 - **2) Book a slot**
 
-![Booking](public/bookingpage%20.png)
+Booking
 
 ---
 
